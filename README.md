@@ -1,4 +1,6 @@
 # Cocktail Advisor Chat
+# IMPORTANT!!!
+https://www.loom.com/share/e16d8c6c1e5541f59ead7fa901d78577?sid=ce0121e9-7c4f-4b26-b8e6-fa0b1001e9b0
 
 Welcome to **Cocktail Advisor Chat**, an AI-powered application that recommends cocktails based on your ingredient preferences! This app leverages advanced machine learning models to help you discover exciting cocktails, whether you're looking for something classic or new, alcoholic or non-alcoholic. 
 
